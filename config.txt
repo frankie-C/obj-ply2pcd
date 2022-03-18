@@ -1,0 +1,5 @@
+input = bridge.obj
+number_samples = 500000
+leaf_size = 0.01
+vis_result = 0
+write_normals = 0
